@@ -1,11 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://deallen7.medium.com/how-to-build-a-todo-app-in-rails-e6571fcccac3
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version ruby 3.0.0p0
 
 * System dependencies
 
